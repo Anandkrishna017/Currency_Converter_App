@@ -1,6 +1,6 @@
 # Currency_Converter_App
 
-<a href="flutter build web --web-renderer"> View the Project</a>
+<a href="https://currencyconvert876.netlify.app/"> View the Project</a>
 
 # currency_converter
 
